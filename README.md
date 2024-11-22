@@ -42,7 +42,7 @@ Setup Backend (Flask)
 	 	pip install -r requirements.txt
 
      	Start the backend server:
-      		flask run
+      	flask run
 	
 	3.	Set up the frontend:
  		Navigate to the frontend folder:
