@@ -112,3 +112,7 @@ Future Enhancements
 	•	Proctoring module integration for live candidate monitoring.
 	•	Admin dashboard for managing questions and candidates.
 	•	Advanced analytics for evaluating overall trends in candidate performance.
+
+Contact
+
+For any questions or contributions, feel free to reach out at ishanjain2174@gmail.com or open an issue in this repository.
