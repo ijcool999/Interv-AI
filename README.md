@@ -57,4 +57,70 @@ Setup Backend (Flask)
    		Open your browser and go to:
 -      		http://localhost:3000
 
+
+To format your GitHub README properly with code blocks, you need to use Markdown syntax. Specifically, you can wrap your code sections in triple backticks (```). Here’s how your content will look when formatted for GitHub:
+
+Installation
+
+Prerequisites
+
+Before setting up the project, ensure the following are installed:
+	1.	MongoDB: You should have MongoDB running locally or on a remote server.
+	2.	Python: Ensure Python (preferably 3.x) is installed on your machine.
+	3.	Node.js and npm: Required for running the React frontend.
+
+Setup Backend (Flask)
+
+	1.	Clone the Repository:
+
+git clone https://github.com/ijcool999/Interv-AI.git
+cd Interv-AI
+
+
+	2.	Navigate to the Backend Folder:
+
+cd backend
+
+
+	3.	Install Dependencies:
+
+pip install -r requirements.txt
+
+
+	4.	Start the Backend Server:
+
+flask run
+
+The backend server will be running at:
+
+http://127.0.0.1:8080
+
+Setup Frontend (React)
+
+	1.	Navigate to the Frontend Folder:
+
+cd frontend
+
+
+	2.	Install Dependencies:
+
+npm install
+
+
+	3.	Start the React Development Server:
+
+npm start
+
+Open your browser and go to:
+
+http://localhost:3000
+
+Tips for Markdown Formatting on GitHub
+
+	•	Use triple backticks (```) to create code blocks.
+	•	Use - or * for bullet points.
+	•	Use #, ##, or ### for headers.
+
+You can copy and paste this directly into your GitHub README file for proper formatting! 😊
+
      
