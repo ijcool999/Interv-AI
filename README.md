@@ -35,5 +35,6 @@ Setup Backend (Flask)
 		cd Interv-AI
 
 	2.	Set up the backend:
-		 Navigate to the backend folder:
-   			cd backend
+		Navigate to the backend folder:
+   		cd backend
+     
