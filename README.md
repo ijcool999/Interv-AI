@@ -27,38 +27,7 @@ Prerequisites
 	1.	MongoDB: You should have MongoDB running locally or on a remote server.
 	2.	Python: Ensure Python (preferably 3.x) is installed on your machine.
 	3.	Node.js and npm: For running the React frontend.
-
-Setup Backend (Flask)
-
-	1.	Clone the repository:
- 		git clone https://github.com/ijcool999/Interv-AI.git
-- 		cd Interv-AI
-
-	2.	Set up the backend:
-		Navigate to the backend folder:
--    		cd backend
-
-       	Install dependencies:
-- 	 	pip install -r requirements.txt
-
-     	Start the backend server:
-	      	flask run
-	
-	3.	Set up the frontend:
- 		Navigate to the frontend folder:
--    		cd frontend
-
-       	Install dependencies:
-- 	 	npm install
-
-     	Start the React development server:
--        	npm start
-
-   		Open your browser and go to:
--      		http://localhost:3000
-
-
-To format your GitHub README properly with code blocks, you need to use Markdown syntax. Specifically, you can wrap your code sections in triple backticks (```). Here’s how your content will look when formatted for GitHub:
+Here is the properly formatted content ready to paste into your GitHub README file:
 
 Installation
 
@@ -115,12 +84,6 @@ Open your browser and go to:
 
 http://localhost:3000
 
-Tips for Markdown Formatting on GitHub
+How to Use This
 
-	•	Use triple backticks (```) to create code blocks.
-	•	Use - or * for bullet points.
-	•	Use #, ##, or ### for headers.
-
-You can copy and paste this directly into your GitHub README file for proper formatting! 😊
-
-     
+You can paste this directly into your README file on GitHub. It will render with proper formatting, including code blocks for terminal commands. Let me know if you need further assistance! 😊
