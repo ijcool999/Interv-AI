@@ -37,4 +37,9 @@ Setup Backend (Flask)
 	2.	Set up the backend:
 		Navigate to the backend folder:
    		cd backend
+
+       		Install dependencies:
+	 	pip install -r requirements.txt
+
+-      		Start the backend server:
      
