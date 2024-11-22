@@ -52,9 +52,9 @@ Setup Backend (Flask)
 	 	npm install
 
      	Start the React development server:
-       		npm start
+       	npm start
 
-   	Open your browser and go to:
+   		Open your browser and go to:
      		http://localhost:3000
 
      
