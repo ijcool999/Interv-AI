@@ -84,6 +84,31 @@ Open your browser and go to:
 
 http://localhost:3000
 
-How to Use This
 
-You can paste this directly into your README file on GitHub. It will render with proper formatting, including code blocks for terminal commands. Let me know if you need further assistance! 😊
+Usage
+
+Candidate Workflow
+
+	1.	Login or Register: Candidates log in to access the platform.
+	2.	Assessment Rounds:
+	•	Round 1 (Aptitude): Answer multiple-choice questions within a timer.
+	•	Round 2 (Technical Quiz): Solve domain-specific technical problems.
+	•	Round 3 (Coding Round): Write and submit code for programming challenges.
+	3.	Feedback & Report: Receive detailed feedback and download the performance report.
+
+Admin Features (Future Scope)
+
+	•	Monitor candidate progress.
+	•	Add or modify question templates.
+	•	View candidate reports and performance summaries.
+
+
+ Contributing
+
+We welcome contributions to make IntervAI better! 
+
+Future Enhancements
+
+	•	Proctoring module integration for live candidate monitoring.
+	•	Admin dashboard for managing questions and candidates.
+	•	Advanced analytics for evaluating overall trends in candidate performance.
