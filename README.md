@@ -32,29 +32,29 @@ Setup Backend (Flask)
 
 	1.	Clone the repository:
  		git clone https://github.com/ijcool999/Interv-AI.git
-		cd Interv-AI
+- 		cd Interv-AI
 
 	2.	Set up the backend:
 		Navigate to the backend folder:
-   		cd backend
+-    		cd backend
 
        	Install dependencies:
-	 	pip install -r requirements.txt
+- 	 	pip install -r requirements.txt
 
      	Start the backend server:
-      	flask run
+	      	flask run
 	
 	3.	Set up the frontend:
  		Navigate to the frontend folder:
-   		cd frontend
+-    		cd frontend
 
        	Install dependencies:
-	 	npm install
+- 	 	npm install
 
      	Start the React development server:
-       	npm start
+-        	npm start
 
    		Open your browser and go to:
-     		http://localhost:3000
+-      		http://localhost:3000
 
      
