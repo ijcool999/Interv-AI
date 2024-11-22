@@ -27,3 +27,9 @@ Prerequisites
 	1.	MongoDB: You should have MongoDB running locally or on a remote server.
 	2.	Python: Ensure Python (preferably 3.x) is installed on your machine.
 	3.	Node.js and npm: For running the React frontend.
+
+Setup Backend (Flask)
+
+	1.	Clone the repository:
+ 	git clone https://github.com/ijcool999/Interv-AI.git
+	cd Interv-AI
