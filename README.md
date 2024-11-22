@@ -41,5 +41,20 @@ Setup Backend (Flask)
        	Install dependencies:
 	 	pip install -r requirements.txt
 
-     		Start the backend server:
+     	Start the backend server:
+      		flask run
+	
+	3.	Set up the frontend:
+ 		Navigate to the frontend folder:
+   		cd frontend
+
+       		Install dependencies:
+	 	npm install
+
+     		Start the React development server:
+       		npm start
+
+   		Open your browser and go to:
+     		http://localhost:3000
+
      
