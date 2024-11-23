@@ -43,6 +43,7 @@ Setup Backend (Flask)
 	1.	Clone the Repository:
 
 git clone https://github.com/ijcool999/Interv-AI.git
+
 cd Interv-AI
 
 
